@@ -1,0 +1,9 @@
+Task:
+Write a function that takes an integer variable named num, adds it to the end of the vector named "arr" and then returns the new vector.
+
+Example:
+arr[] = {1, 2, 3}
+    num = 4
+
+    should be: 
+    {1, 2, 3, 4}

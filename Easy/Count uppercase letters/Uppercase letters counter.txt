@@ -1,4 +1,4 @@
-#Task: 
+Task: 
 Write a program that counts the uppercase letters in a string and display the result.
 
 There are various ways to complete this task, it doesnt have to be identical to mine

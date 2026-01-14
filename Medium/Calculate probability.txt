@@ -1,0 +1,5 @@
+TASK: 
+Write a function to calculate the probability of making a successful throw.
+
+The formula for calculating probability  of a successful throw is:
+probability = successful throws / total throws

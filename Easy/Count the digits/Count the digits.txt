@@ -1,0 +1,2 @@
+Task:
+Write a function that counts the number of digits in a given integer and then returns that count.

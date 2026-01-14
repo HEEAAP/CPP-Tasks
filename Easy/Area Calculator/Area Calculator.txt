@@ -1,0 +1,4 @@
+Task:
+The formula for the area of a circle is: "area = pi * r * r". Pi = 3.14159.
+
+Write a function that calculates and returns the area of a circle. The radius will be provided automatically by the backend, so you do not need to input it manually.
