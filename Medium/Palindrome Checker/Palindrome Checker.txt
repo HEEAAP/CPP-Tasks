@@ -1,0 +1,15 @@
+Task:
+Task:
+Write a program that:
+    Prompts the user for a string.
+    Ignores:
+        Case differences
+        Spaces
+    Determines whether the string is a palindrome.
+    Displays whether the string is or is not a palindrome.
+    Has a function prototype at the top and the function definition below main().
+
+Constraints:
+Do not create a reversed copy of the string.
+Preserve the original string (do not modify it).
+Handle empty input safely.
