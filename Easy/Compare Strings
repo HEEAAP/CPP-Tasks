@@ -1,0 +1,1 @@
+Write a program that prompts the user for two strings and then compares the strings for equality, but ignores case differences, which will compare ok and OK as equal.
