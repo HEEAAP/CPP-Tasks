@@ -3,8 +3,8 @@
 #include <algorithm>
 
 double findMedianSortedArrays(std::vector<int>& nums1, std::vector<int>& nums2) {
-    nums1.insert(nums1.end(), nums2.begin(), nums2.end());
-    std::sort(nums1.begin(), nums1.end());
+    nums1.insert(nums1.end(), nums2.begin(), nums2.end()); // Merges nums2 into nums1
+    std::sort(nums1.begin(), nums1.end()); // Sorts the combined array
 
     return nums1.size() % 2 ? nums1[nums1.size() / 2] : (nums1[nums1.size() / 2 - 1] + nums1[nums1.size() / 2]) / 2.0;
 }
