@@ -5,7 +5,7 @@ A repository of C++ tasks ranging from beginner to advanced levels, designed for
 * **Clone the repository:**  
     ¬ git clone <https://github.com/HEEAAP/CPP-Tasks>
 * **Choose your difficulty level:**  
-    ¬ Start with easy tasks and progress to medium and hard as you improve.
+    ¬ Start with Apprentice tasks and progress to Adept and Master as you improve.
 * **Attempt the task:**  
     ¬ Try solving the task in the same page below the task instructions before looking at the solution.
 * **Check your solution:**  
