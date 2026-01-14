@@ -1,0 +1,6 @@
+TASK: 
+write a function that combines two arrays and then finds and returns the median.
+
+NOTE: 
+The median is the middle value of a list
+The median must be picked from the sorted combination of the arrays
