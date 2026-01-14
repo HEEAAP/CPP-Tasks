@@ -1,11 +1,32 @@
-# About the repo:
-This repo will be updated as more C++ tasks are added
+# 🖥️ C++ Practice Tasks
+A repository of C++ tasks ranging from beginner to advanced levels, designed for learners and programmers of all skill levels. New tasks are added regularly.
 
-# Difficulty:
-This repo will provide different levels of difficulty to allow people of all stages to participate
+# 🎯 Getting Started
+* **Clone the repository:**  
+    ¬ git clone <https://github.com/HEEAAP/CPP-Tasks>
+* **Choose your difficulty level:**  
+    ¬ Start with easy tasks and progress to medium and hard as you improve.
+* **Attempt the task:**  
+    ¬ Try solving the task in the same page below the task instructions before looking at the solution.
+* **Check your solution:**  
+    ¬ Compare your code with the provided answer. If your solution works, try optimizing it further.
 
-# Please Note:
-There will be various ways to complete the tasks, meaning your answer doesn't have to be identical to the answer provided. If your answer is different but gives you the correct answer, try to optimise your code as best you can
+# ⚡ Difficulty
+Tasks are categorized by difficulty, but perception of difficulty may vary among individuals. Don’t worry if a task feels too easy or too hard — focus on learning and improving.  
 
-# Can I supply tasks to this repo:
-Sure, create a request with the task question and task answer in separate files.
+**Difficulty Ranks:**  
+🐣 Apprentice (Easy)  
+🛡️ Adept (Medium)  
+🐉 Master (Hard)
+
+# 📝 Extra Info
+* Multiple approaches can solve each task; your solution doesn’t need to match the provided answer exactly.
+* Aim for clean, readable, and well-commented code.
+* Try optimizing your solution if it works correctly.
+
+# 🤝 Contributing
+Contributions are more than welcome!
+* Fork the repository.
+* Create a new task with separate files for the question and solution.
+* Submit a pull request.
+Please make sure your solution works correctly and is optimized where possible.
